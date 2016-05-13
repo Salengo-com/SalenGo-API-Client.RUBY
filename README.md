@@ -1,0 +1,1 @@
+# SalenGo-API-Client.RUBY
